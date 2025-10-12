@@ -1,0 +1,9 @@
+namespace emploeeDatabase{
+  let array employeeFirstName = [""];
+  let array employeeLastName = [""];
+  let array employeePhone = [""];
+  let array employeeZone = [""];
+  let array employeeLogs = [""];
+};
+
+export self.namespace;
